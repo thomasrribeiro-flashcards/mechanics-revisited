@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="title desc">
+  <title id="title">One metre equals one hundred centimetres</title>
+  <desc id="desc">A horizontal bar labeled one metre is divided into one hundred small segments, with ten grouped sections of ten centimetres each.</desc>
+  <defs>
+    <pattern id="centimetres" width="7" height="72" patternUnits="userSpaceOnUse">
+      <path d="M 0 0 V 72" fill="none" stroke="#6f6f73" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="360" fill="#ffffff"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#1d1d1f">
+    <text x="400" y="54" text-anchor="middle" font-size="30" font-weight="700">the same length</text>
+    <text x="400" y="101" text-anchor="middle" font-size="27">1 metre</text>
+    <path d="M50 124 V108 H750 V124" fill="none" stroke="#1d1d1f" stroke-width="4"/>
+
+    <rect x="50" y="145" width="700" height="72" rx="2" fill="#f7c843" stroke="#1d1d1f" stroke-width="4"/>
+    <rect x="50" y="145" width="700" height="72" fill="url(#centimetres)"/>
+    <g stroke="#1d1d1f" stroke-width="3">
+      <path d="M120 145 V217 M190 145 V217 M260 145 V217 M330 145 V217 M400 145 V217 M470 145 V217 M540 145 V217 M610 145 V217 M680 145 V217"/>
+    </g>
+    <g font-size="18" text-anchor="middle">
+      <text x="85" y="244">10 cm</text><text x="155" y="244">10 cm</text>
+      <text x="225" y="244">10 cm</text><text x="295" y="244">10 cm</text>
+      <text x="365" y="244">10 cm</text><text x="435" y="244">10 cm</text>
+      <text x="505" y="244">10 cm</text><text x="575" y="244">10 cm</text>
+      <text x="645" y="244">10 cm</text><text x="715" y="244">10 cm</text>
+    </g>
+    <path d="M50 272 V288 H750 V272" fill="none" stroke="#1d1d1f" stroke-width="4"/>
+    <text x="400" y="329" text-anchor="middle" font-size="27">100 centimetres</text>
+  </g>
+</svg>

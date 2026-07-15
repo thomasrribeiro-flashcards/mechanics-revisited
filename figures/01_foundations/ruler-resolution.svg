@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-labelledby="title desc">
+  <title id="title">Ruler with a bar ending at 3.4 centimetres</title>
+  <desc id="desc">A ruler from zero to four centimetres has marks every tenth of a centimetre. A yellow bar begins at zero and ends exactly at the 3.4 centimetre mark.</desc>
+  <rect width="800" height="400" fill="#ffffff"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#1d1d1f">
+    <text x="400" y="52" text-anchor="middle" font-size="29" font-weight="700">smallest marked interval: ?</text>
+    <rect x="88" y="105" width="544" height="72" fill="#f7c843" stroke="#1d1d1f" stroke-width="4"/>
+    <path d="M632 92 V190" stroke="#1d1d1f" stroke-width="5"/>
+    <text x="644" y="130" font-size="22">endpoint</text>
+    <path d="M88 242 H728" fill="none" stroke="#1d1d1f" stroke-width="5"/>
+    <g stroke="#1d1d1f" stroke-width="2">
+      <path d="M104 242v22 M120 242v22 M136 242v22 M152 242v22 M168 242v22 M184 242v22 M200 242v22 M216 242v22 M232 242v22"/>
+      <path d="M264 242v22 M280 242v22 M296 242v22 M312 242v22 M328 242v22 M344 242v22 M360 242v22 M376 242v22 M392 242v22"/>
+      <path d="M424 242v22 M440 242v22 M456 242v22 M472 242v22 M488 242v22 M504 242v22 M520 242v22 M536 242v22 M552 242v22"/>
+      <path d="M584 242v22 M600 242v22 M616 242v22 M632 242v22 M648 242v22 M664 242v22 M680 242v22 M696 242v22 M712 242v22"/>
+    </g>
+    <g stroke="#1d1d1f" stroke-width="4">
+      <path d="M88 242v40 M248 242v40 M408 242v40 M568 242v40 M728 242v40"/>
+    </g>
+    <g font-size="25" text-anchor="middle">
+      <text x="88" y="318">0</text><text x="248" y="318">1</text>
+      <text x="408" y="318">2</text><text x="568" y="318">3</text>
+      <text x="728" y="318">4 cm</text>
+    </g>
+    <text x="400" y="369" text-anchor="middle" font-size="23" fill="#5f5f63">read only the detail supported by the marks</text>
+  </g>
+</svg>

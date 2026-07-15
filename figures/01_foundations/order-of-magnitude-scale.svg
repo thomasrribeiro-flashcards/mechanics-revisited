@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 390" role="img" aria-labelledby="title desc">
+  <title id="title">Logarithmic scale from one hundred to one thousand</title>
+  <desc id="desc">A horizontal logarithmic scale runs from ten squared to ten cubed. Point M at six hundred appears to the right of the geometric midpoint at about three hundred sixteen.</desc>
+  <rect width="800" height="390" fill="#ffffff"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#1d1d1f">
+    <text x="400" y="52" text-anchor="middle" font-size="29" font-weight="700">nearest labeled power of ten?</text>
+    <path d="M100 228 H700" stroke="#1d1d1f" stroke-width="5"/>
+    <path d="M100 199v58 M700 199v58" stroke="#1d1d1f" stroke-width="5"/>
+    <path d="M281 210v36 M386 210v36 M462 210v36 M521 210v36 M567 210v36 M607 210v36 M642 210v36 M672 210v36" stroke="#77777b" stroke-width="2.5"/>
+    <g font-size="26" text-anchor="middle">
+      <text x="100" y="298">10²</text>
+      <text x="700" y="298">10³</text>
+    </g>
+    <path d="M567 114 L591 157 H543 Z" fill="#f7c843" stroke="#1d1d1f" stroke-width="4"/>
+    <path d="M567 157 V228" stroke="#1d1d1f" stroke-width="4" stroke-dasharray="8 7"/>
+    <text x="567" y="95" text-anchor="middle" font-size="29" font-weight="700">M = 6 × 10²</text>
+    <text x="400" y="350" text-anchor="middle" font-size="22" fill="#5f5f63">equal spacing represents equal ratios</text>
+  </g>
+</svg>

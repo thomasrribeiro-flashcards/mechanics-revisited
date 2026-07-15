@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 410" role="img" aria-labelledby="title desc">
+  <title id="title">Five repeated length readings around twenty centimetres</title>
+  <desc id="desc">Five differently shaped markers appear at 19.8, 19.9, 20.0, 20.1, and 20.2 centimetres on a number line, centered on 20.0 centimetres.</desc>
+  <rect width="800" height="410" fill="#ffffff"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#1d1d1f">
+    <text x="400" y="53" text-anchor="middle" font-size="29" font-weight="700">five readings of the same length</text>
+    <path d="M92 270 H708" stroke="#1d1d1f" stroke-width="5"/>
+    <g stroke="#1d1d1f" stroke-width="3">
+      <path d="M92 252v36 M246 252v36 M400 246v48 M554 252v36 M708 252v36"/>
+    </g>
+    <g font-size="24" text-anchor="middle">
+      <text x="92" y="327">19.8</text><text x="246" y="327">19.9</text>
+      <text x="400" y="327">20.0</text><text x="554" y="327">20.1</text>
+      <text x="708" y="327">20.2 cm</text>
+    </g>
+    <circle cx="92" cy="190" r="19" fill="#f7c843" stroke="#1d1d1f" stroke-width="4"/>
+    <rect x="227" y="171" width="38" height="38" fill="#f7c843" stroke="#1d1d1f" stroke-width="4"/>
+    <path d="M400 165 L424 209 H376 Z" fill="#f7c843" stroke="#1d1d1f" stroke-width="4"/>
+    <path d="M554 164 L579 190 L554 216 L529 190 Z" fill="#f7c843" stroke="#1d1d1f" stroke-width="4"/>
+    <path d="M690 172 L726 208 M726 172 L690 208" stroke="#1d1d1f" stroke-width="8" stroke-linecap="round"/>
+    <g stroke="#77777b" stroke-width="2" stroke-dasharray="7 7">
+      <path d="M92 213v37 M246 213v37 M400 213v33 M554 220v30 M708 216v34"/>
+    </g>
+    <path d="M92 109 H708" stroke="#5f5f63" stroke-width="3"/>
+    <path d="M92 97v24 M708 97v24" stroke="#5f5f63" stroke-width="3"/>
+    <text x="400" y="93" text-anchor="middle" font-size="22" fill="#5f5f63">visible spread: 0.4 cm</text>
+    <text x="400" y="377" text-anchor="middle" font-size="23" fill="#5f5f63">Where is the center? What is the spread?</text>
+  </g>
+</svg>

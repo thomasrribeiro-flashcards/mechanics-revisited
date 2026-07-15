@@ -1,0 +1,31 @@
+# Mechanics Revisited deck instructions
+
+Read and follow, in order:
+
+1. `/Users/thomasribeiro/code/flashcards/templates/guides/CARD_STANDARD.md`
+2. `/Users/thomasribeiro/code/flashcards/templates/guides/AUTHORING_PLAYBOOK.md`
+3. `/Users/thomasribeiro/code/flashcards/.agents/skills/manage-flashcard-decks/references/cold-start-workflow.md`
+4. `/Users/thomasribeiro/code/flashcards/templates/guides/physics.md`
+5. `../SUBJECT_BRIEF.md` and `../ROADMAP.md`
+6. This repository's `deck.toml`, `README.md`, and `CARD_README.md`
+
+Use the flashcards application's parser, stable-ID implementation, and
+validator as executable truth. Establish prerequisites before applications.
+Create the smallest sufficient card set; do not optimize for card count.
+“Smallest sufficient” means removing redundant retrieval decisions, not
+minimizing authentic representations, problem progression, or useful figures.
+
+Preserve every existing `card-id` when correcting or improving the same
+retrieval target. Assign a new ID when a card tests materially new knowledge.
+Use original SVG figures where spatial, temporal, structural, or graphical
+reasoning is itself part of the target.
+Inventory figure opportunities by retrieval role before authoring; do not use
+one figure per chapter as either a target or a cap.
+
+For a new deck, author only the first chapter until its concept-dependency
+ledger and `.flashcards/audits/pilot-cold-start.md` pass review and the pilot is
+explicitly approved. Never use a later chapter's vocabulary to scaffold an
+earlier one.
+
+Run `flashcards deck validate .` before handoff. Do not commit, push, create a
+remote repository, or deploy unless the user asks.

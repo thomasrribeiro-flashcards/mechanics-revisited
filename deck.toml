@@ -1,0 +1,20 @@
+schema_version = 1
+subject = "misc"
+deck = "mechanics-revisited"
+level = "zero-mechanics-knowledge"
+status = "pilot-built"
+pilot_chapter = 1
+created = "2026-07-14"
+
+[standards]
+flashcards_root = "/Users/thomasribeiro/code/flashcards"
+universal = "templates/guides/CARD_STANDARD.md"
+playbook = "templates/guides/AUTHORING_PLAYBOOK.md"
+subject = "templates/guides/physics.md"
+
+[identity]
+policy = "preserve-id-for-same-retrieval-target"
+
+[sources]
+require_authority = true
+require_license_record = true
