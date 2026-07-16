@@ -143,6 +143,11 @@ conventions, not as a substitute for an uncertainty analysis.
 
 ## Validation gate and pilot reconciliation
 
+`02_vectors.md` and its figures are a comparison snapshot copied from
+`physics/mechanics` before fresh regeneration on 2026-07-15. They are retained
+as logging material and have not passed this deck's novice-first chapter-boundary
+audit; they must not be treated as evidence that the pilot has advanced.
+
 Before handoff:
 
 1. run `flashcards deck stabilize . --check`;

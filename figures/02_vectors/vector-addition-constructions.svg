@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
+  <title id="title">Two equivalent constructions for vector addition</title>
+  <desc id="desc">The parallelogram rule and tip-to-tail rule both produce the same resultant A plus B.</desc>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L8 3 0 6Z" fill="#1a1a1a"/></marker><marker id="g" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L8 3 0 6Z" fill="#F5C842"/></marker></defs>
+  <rect width="760" height="360" fill="#fff"/><path d="M380 35V325" stroke="#ddd" stroke-width="2"/>
+  <g fill="none" stroke-width="4" marker-end="url(#a)"><path d="M70 280L270 280" stroke="#1a1a1a"/><path d="M70 280L175 105" stroke="#1a1a1a"/><path d="M270 280L375 105M175 105L375 105" stroke="#999" stroke-dasharray="7 6"/></g>
+  <path d="M70 280L375 105" fill="none" stroke="#F5C842" stroke-width="6" marker-end="url(#g)"/>
+  <g fill="none" stroke-width="4"><path d="M435 280L635 280" stroke="#1a1a1a" marker-end="url(#a)"/><path d="M635 280L740 105" stroke="#1a1a1a" marker-end="url(#a)"/><path d="M435 280L740 105" stroke="#F5C842" stroke-width="6" marker-end="url(#g)"/></g>
+  <g font-family="monospace" fill="#1a1a1a" font-size="20"><text x="105" y="55">parallelogram</text><text x="495" y="55">tip-to-tail</text><text x="170" y="310">A</text><text x="105" y="175">B</text><text x="198" y="175" fill="#9B7600">A + B</text><text x="530" y="310">A</text><text x="675" y="190">B</text><text x="520" y="175" fill="#9B7600">A + B</text></g>
+</svg>

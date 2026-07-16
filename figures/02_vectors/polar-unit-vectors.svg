@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Polar coordinate unit vectors</title><desc id="desc">At point P, r hat points radially outward and theta hat points tangent in the counterclockwise direction of increasing theta.</desc><rect width="640" height="400" fill="#fff"/>
+  <circle cx="270" cy="235" r="125" fill="none" stroke="#bbb" stroke-width="2" stroke-dasharray="6 6"/><path d="M70 330H575M145 375V45" stroke="#aaa" stroke-width="2"/>
+  <path d="M145 330L355 135" stroke="#1a1a1a" stroke-width="4"/><polygon points="355,135 335,140 348,153" fill="#1a1a1a"/><circle cx="355" cy="135" r="8" fill="#1a1a1a"/>
+  <path d="M355 135L455 42" stroke="#F5C842" stroke-width="6"/><polygon points="455,42 435,48 449,62" fill="#F5C842"/>
+  <path d="M355 135L262 35" stroke="#1a1a1a" stroke-width="5"/><polygon points="262,35 268,55 282,42" fill="#1a1a1a"/>
+  <path d="M225 330A80 80 0 0 0 203 276" fill="none" stroke="#F5C842" stroke-width="4"/>
+  <g font-family="monospace" fill="#1a1a1a"><text x="365" y="125" font-size="20">P</text><text x="410" y="74" font-size="24" fill="#9B7600">r̂</text><text x="225" y="70" font-size="24">θ̂</text><text x="218" y="292" font-size="20">θ</text><text x="90" y="355" font-size="18">origin</text><text x="330" y="375" font-size="17">θ̂ points toward increasing θ</text></g>
+</svg>

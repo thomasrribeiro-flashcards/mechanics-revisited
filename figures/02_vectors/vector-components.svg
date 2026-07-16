@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360" role="img" aria-labelledby="title desc">
+  <title id="title">Cartesian components of a vector</title>
+  <desc id="desc">Vector A points up and right. Dashed horizontal and vertical projections show components A x and A y, with angle theta measured from the positive x axis.</desc>
+  <rect width="620" height="360" fill="#fff"/>
+  <g stroke="#1a1a1a" stroke-width="3" fill="none">
+    <path d="M80 292H555M548 284l14 8-14 8M80 292V42M72 50l8-14 8 14"/>
+    <path d="M80 292L480 76"/>
+  </g>
+  <path d="M480 76l-22 2 11 19Z" fill="#1a1a1a"/>
+  <g stroke="#777" stroke-width="2" stroke-dasharray="7 6">
+    <path d="M480 76V292M80 76H480"/>
+  </g>
+  <path d="M142 292A62 62 0 0 0 135 263" fill="none" stroke="#F5C842" stroke-width="5"/>
+  <g font-family="monospace" fill="#1a1a1a">
+    <text x="565" y="312" font-size="18">x</text><text x="58" y="38" font-size="18">y</text>
+    <text x="285" y="330" font-size="20" font-style="italic">Aₓ</text>
+    <text x="500" y="190" font-size="20" font-style="italic">Aᵧ</text>
+    <text x="279" y="160" font-size="22" font-style="italic">A</text>
+    <text x="145" y="270" font-size="19">θ</text>
+  </g>
+</svg>

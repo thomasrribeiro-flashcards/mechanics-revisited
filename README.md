@@ -37,9 +37,12 @@ such as velocity, acceleration, force, energy, momentum, or field.
 | `11_oscillations.md` | Periodic motion | Chapters 1–10 | Identify restoring behavior; connect oscillation representations and parameters |
 | `12_synthesis.md` | Model selection and multi-step problems | Chapters 1–11 | Select, combine, test, and communicate mechanics models across contexts |
 
-Planned outcomes in later rows are not prerequisites for earlier rows. Only
-`01_foundations.md` is authored in this pilot; later chapter files intentionally
-remain empty until the pilot has been learned and evaluated.
+Planned outcomes in later rows are not prerequisites for earlier rows.
+`01_foundations.md` is the only chapter authored through this deck's novice-first
+pipeline. `02_vectors.md` is an explicit comparison snapshot copied from
+`physics/mechanics` on 2026-07-15 immediately before that chapter was freshly
+regenerated; it preserves the prior implementation for inspection and is not an
+approved continuation of this pilot. Chapters 3–12 remain empty.
 
 ## Source register
 
